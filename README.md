@@ -6,7 +6,7 @@
 ![Google](https://img.shields.io/badge/Integrations-Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 > An autonomous, multi-agent AI assistant that manages your calendar, emails, and contacts — all through a single Telegram conversation.
-
+![Jarvis Demo](demo.gif)
 ---
 
 ## 🎯 What It Does
@@ -109,9 +109,6 @@ Each sub-agent is a **standalone n8n workflow** with its own tools and system pr
 
 ---
 
-![Jarvis Demo](demo.gif)
-
----
 
 ## 📁 Repository Structure
 
