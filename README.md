@@ -121,7 +121,11 @@ jarvis-n8n-workflows/
 ```
 
 ---
+
+
 ![Jarvis Demo](demo.gif)
+
+
 
 ## 🚀 Setup & Installation
 
