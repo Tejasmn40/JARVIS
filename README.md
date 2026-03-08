@@ -6,7 +6,7 @@
 ![Google](https://img.shields.io/badge/Integrations-Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 > An autonomous, multi-agent AI assistant that manages your calendar, emails, and contacts — all through a single Telegram conversation.
-![Jarvis Demo](demo.gif.gif)
+
 ---
 
 ## 🎯 What It Does
@@ -172,5 +172,5 @@ Send any message to your Telegram bot and Jarvis will respond.
 Building intelligent workflow systems with n8n, LLMs, and Google APIs.
 
 ---
+![Jarvis Demo](demo.gif.gif)
 
-> ⭐ If you found this useful, feel free to star the repo!
