@@ -54,7 +54,7 @@ Each sub-agent is a **standalone n8n workflow** with its own tools and system pr
 | Layer | Technology |
 |---|---|
 | Workflow Automation | n8n (self-hosted) |
-| AI Model | GPT-4o via OpenRouter |
+| AI Model | Groq |
 | Voice Transcription | OpenAI Whisper |
 | User Interface | Telegram Bot |
 | Email | Gmail API (OAuth2) |
