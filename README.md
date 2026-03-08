@@ -109,6 +109,10 @@ Each sub-agent is a **standalone n8n workflow** with its own tools and system pr
 
 ---
 
+![Jarvis Demo](demo.gif)
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -121,9 +125,6 @@ jarvis-n8n-workflows/
 ```
 
 ---
-
-
-![Jarvis Demo](demo.gif)
 
 
 
