@@ -1,7 +1,7 @@
 # 🤖 Jarvis — Personal AI Assistant
 
 ![n8n](https://img.shields.io/badge/Built%20with-n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/Powered%20by-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/Powered%20by-Groq-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Interface-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Google](https://img.shields.io/badge/Integrations-Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
